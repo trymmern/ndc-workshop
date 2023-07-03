@@ -1,0 +1,15 @@
+C:\dev\ndc-workshop\console2\bin\Debug\net6.0\console2.exe
+C:\dev\ndc-workshop\console2\bin\Debug\net6.0\console2.deps.json
+C:\dev\ndc-workshop\console2\bin\Debug\net6.0\console2.runtimeconfig.json
+C:\dev\ndc-workshop\console2\bin\Debug\net6.0\console2.dll
+C:\dev\ndc-workshop\console2\bin\Debug\net6.0\console2.pdb
+C:\dev\ndc-workshop\console2\obj\Debug\net6.0\console2.csproj.AssemblyReference.cache
+C:\dev\ndc-workshop\console2\obj\Debug\net6.0\console2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ndc-workshop\console2\obj\Debug\net6.0\console2.AssemblyInfoInputs.cache
+C:\dev\ndc-workshop\console2\obj\Debug\net6.0\console2.AssemblyInfo.cs
+C:\dev\ndc-workshop\console2\obj\Debug\net6.0\console2.csproj.CoreCompileInputs.cache
+C:\dev\ndc-workshop\console2\obj\Debug\net6.0\console2.dll
+C:\dev\ndc-workshop\console2\obj\Debug\net6.0\refint\console2.dll
+C:\dev\ndc-workshop\console2\obj\Debug\net6.0\console2.pdb
+C:\dev\ndc-workshop\console2\obj\Debug\net6.0\console2.genruntimeconfig.cache
+C:\dev\ndc-workshop\console2\obj\Debug\net6.0\ref\console2.dll

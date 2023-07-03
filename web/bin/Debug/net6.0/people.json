@@ -1,0 +1,18 @@
+﻿[
+  {
+    "Name" : "Filip Ekberg",
+    "Age" : 35
+  },
+  {
+    "Name" : "Sofie Ekberg",
+    "Age" : 35
+  },
+  {
+    "Name" : "John Doe",
+    "Age" : 38
+  },
+  {
+    "Name" : "Jane Doe",
+    "Age" : 40
+  }
+]

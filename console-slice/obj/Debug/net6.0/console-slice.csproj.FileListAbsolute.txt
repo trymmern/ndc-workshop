@@ -1,0 +1,15 @@
+C:\dev\ndc-workshop\console-slice\bin\Debug\net6.0\console-slice.exe
+C:\dev\ndc-workshop\console-slice\bin\Debug\net6.0\console-slice.deps.json
+C:\dev\ndc-workshop\console-slice\bin\Debug\net6.0\console-slice.runtimeconfig.json
+C:\dev\ndc-workshop\console-slice\bin\Debug\net6.0\console-slice.dll
+C:\dev\ndc-workshop\console-slice\bin\Debug\net6.0\console-slice.pdb
+C:\dev\ndc-workshop\console-slice\obj\Debug\net6.0\console-slice.csproj.AssemblyReference.cache
+C:\dev\ndc-workshop\console-slice\obj\Debug\net6.0\console-slice.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ndc-workshop\console-slice\obj\Debug\net6.0\console-slice.AssemblyInfoInputs.cache
+C:\dev\ndc-workshop\console-slice\obj\Debug\net6.0\console-slice.AssemblyInfo.cs
+C:\dev\ndc-workshop\console-slice\obj\Debug\net6.0\console-slice.csproj.CoreCompileInputs.cache
+C:\dev\ndc-workshop\console-slice\obj\Debug\net6.0\console-slice.dll
+C:\dev\ndc-workshop\console-slice\obj\Debug\net6.0\refint\console-slice.dll
+C:\dev\ndc-workshop\console-slice\obj\Debug\net6.0\console-slice.pdb
+C:\dev\ndc-workshop\console-slice\obj\Debug\net6.0\console-slice.genruntimeconfig.cache
+C:\dev\ndc-workshop\console-slice\obj\Debug\net6.0\ref\console-slice.dll
